@@ -64,6 +64,10 @@ img::selection {
   color: #fff;
   background: transparent; }
 
+  .img-circle {
+      border-radius: 50%;
+  }
+
 img::-moz-selection {
   color: #fff;
   background: transparent; }
